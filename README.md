@@ -22,5 +22,5 @@ Here are some ideas to get you started:
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=thornsh&count_private=true&show_icons=true&repo=github-readme-stats" />
 </a>
 <a href="https://github.com/thornsh">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thornsh&layout=compact&repo=convoychat" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thornsh&layout=compact&repo=convoychat&hide=python" />
 </a>
