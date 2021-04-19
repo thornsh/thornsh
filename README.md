@@ -1,5 +1,5 @@
 ### Hi there 👋
-- front end🧙
+- Front End🧙
 - Cogito ergo sum💫
 
 <!--
