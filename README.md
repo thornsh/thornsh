@@ -26,6 +26,6 @@ Here are some ideas to get you started:
 <a href="https://github.com/thornsh">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thornsh&layout=compact&repo=convoychat&hide=python" />
 </a>
-[<a href="https://viteconf.org/24/tickets/thornsh?p=Rolldown">
-  <img src="https://viteconf.org/24/tickets/thornsh?p=Rolldown" />
-</a>](https://social-img.staticblitz.com/viteconf2024-tickets/thornsh/rolldown?v=4)
+<a href="https://social-img.staticblitz.com/viteconf2024-tickets/thornsh/rolldown?v=4">
+  <img src="https://social-img.staticblitz.com/viteconf2024-tickets/thornsh/rolldown?v=4" />
+</a>
